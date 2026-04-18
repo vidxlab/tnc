@@ -2,10 +2,64 @@
   "data": {
     "apps": [
       {
+        "name": "VidX (Video) Player",
+        "packageName": "com.vidx.vidxplayer",
+        "category": "tools",
+        "iconLogo": "https://play-lh.googleusercontent.com/LeNMRwNy8x4mf_a-h8UcIhpKsC9M_qYAfxh17CAViXxLOifdRxcbQjoKG7dwh0wn-inZn1KR3oYcj0vTm3F4_0Y=w480-h960-rw"
+      },
+      {
         "name": "Neu Phone: Dialer & Calls",
         "packageName": "com.vidxlab.neuphone",
         "category": "tools",
         "iconLogo": "https://play-lh.googleusercontent.com/my4DRNqHPwWbu_f-zsn5M3Wy1bDH6lI2bOZxXYUBF9F_xkYyR5l7iqDKDaYbOfeXCzrCvgSJCNqdUEArDsOb=w480-h960-rw"
+      },
+      {
+        "name": "Neu Video Player – 4K HD",
+        "packageName": "com.vidxlab.neuvideo",
+        "category": "tools",
+        "iconLogo": "https://play-lh.googleusercontent.com/WCOZALNFPAZUH98RaPn_QpqMkJ6ltYqZltlKhXpXB7-KWU2rL3Q71PYL-LVtnmaJ3UmVdT58bwaO05fI-N5gQw=w480-h960-rw"
+      },
+      {
+        "name": "Neu Messages – SMS",
+        "packageName": "com.vidxlab.smsmessenger",
+        "category": "tools",
+        "iconLogo": "https://play-lh.googleusercontent.com/Cikret4TC4qAaRGjZBFX9v9varoThRdFrzFvVwweoqv-suVUsXEr1k86lzWAYf56FUC-qxqXO-heO5kUo5Hw3A=w480-h960-rw"
+      },
+      {
+        "name": "Neu Contacts – Private",
+        "packageName": "com.vidxlab.contacts",
+        "category": "tools",
+        "iconLogo": "https://play-lh.googleusercontent.com/p3WXDrK5o8vRS6glkogxtvn54jTN0ge7PtUDH8pnWW18pI00KzpsNWPYBxb_4k5QXE_kasdcKqpG4E1VEasBMA=w480-h960-rw"
+      },
+      {
+        "name": "Neu Music Player – MP3 Player",
+        "packageName": "com.vidxlab.neumusic",
+        "category": "tools",
+        "iconLogo": "https://play-lh.googleusercontent.com/YSYecNLoudQCIJ-hO7i01RTALT4tCClwbGviTsWmbpp7rO5CjMdMOLr4-ochC5ShSrfMRe00DQcPQLt18WHQ4Q=w480-h960-rw"
+      },
+      {
+        "name": "Neu Gallery – Photo Vault",
+        "packageName": "com.vidxlab.neugallery",
+        "category": "tools",
+        "iconLogo": "https://play-lh.googleusercontent.com/x4ybS54pFPA_pPQ3tPSxBa5_dyj7LQPsYfj0R1bxAUDQVbfwU5b2AUQvjtLTpsO3Q5aOfaTNynZvna0GEgcycw=w480-h960-rw"
+      },
+      {
+        "name": "Vibe Player – Video & Music",
+        "packageName": "com.vidxlab.vidxmusic",
+        "category": "tools",
+        "iconLogo": "https://play-lh.googleusercontent.com/_cn74Vihg6EmM-cp-3MugebGaJT5S7kQp_-QYSSKioE9YqjwtwGHRi8buk31qW5yJhcGTTgiiYtHbO-beJ0b=w480-h960-rw"
+      },
+      {
+        "name": "File Manager – Files & Storage",
+        "packageName": "om.vidxlab.filemanager",
+        "category": "tools",
+        "iconLogo": "https://play-lh.googleusercontent.com/EbOjaQPxzeuUBPXB4ZlMAODiRK6baIL_HG5ii4NH3m452ZuwYxJ8UBXSM-Z_zR2xXFIv3jjaO0ENsk1iKQsm_Vw=w480-h960-rw"
+      },
+      {
+        "name": "Focus Timer: Pomodoro",
+        "packageName": "com.vidxlab.pomodoro",
+        "category": "tools",
+        "iconLogo": "https://play-lh.googleusercontent.com/qNarcft2KqYcG2suATOgcORtDU_t3RWjXNJMIfdQB8aosK_8VAgpuuVpk9qtVBJMLVILnS8QFffL-RmE9wc1=w480-h960-rw"
       }
     ]
   }
