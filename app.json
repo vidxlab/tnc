@@ -5,37 +5,53 @@
         "name": "Neu Phone: Dialer & Calls",
         "packageName": "com.vidxlab.neuphone",
         "category": "utilities",
-        "iconLogo": "https://play-lh.googleusercontent.com/my4DRNqHPwWbu_f-zsn5M3Wy1bDH6lI2bOZxXYUBF9F_xkYyR5l7iqDKDaYbOfeXCzrCvgSJCNqdUEArDsOb=w480-h960-rw"
+        "description": "Neu Phone is a fast dialer & phone app for calls, contacts, call logs, search & caller features — with complete privacy, no ads, and no tracking.",
+        "iconLogo": "https://play-lh.googleusercontent.com/my4DRNqHPwWbu_f-zsn5M3Wy1bDH6lI2bOZxXYUBF9F_xkYyR5l7iqDKDaYbOfeXCzrCvgSJCNqdUEArDsOb=w480-h960-rw",
+        "screenshots": [
+          "https://play-lh.googleusercontent.com/eXVrw9oP3CR61u9Ze9WSrrfMxvYgvw1CzUvA8Oxlx3dn7fq1vuE0WVozPeHXSN-YjlWRloOVQcD3gQEKcfcK=w1052-h592-rw",
+          "https://play-lh.googleusercontent.com/04W3dfWy_vNCICBBM_xhp4u7yBHfcm4V5qlrJz8kkDTX7JBldNf5uBiDzDLfV3UzLjgTECdjBz3jKlV8CDVCPss=w1052-h592-rw",
+          "https://play-lh.googleusercontent.com/1IFa2Z6rgROM2OHVMhlHaYtnbmKmrgKJglGwjCeOuXRIMd-ESAvsv5MBulNr2OXYc3005rjFCn-n11K5i5ogVw=w1052-h592-rw",
+          "https://play-lh.googleusercontent.com/rb-iEq8H8zTodHNLN0JqdngbA4UF9LB1rU616bAruF-vu7a8qZfOSz6w1_d5AszZcNSlVEny8Sj4OxnOOzM7sZ0=w1052-h592-rw"
+        ]
       },
       {
         "name": "Neu Messages – SMS",
         "packageName": "com.vidxlab.smsmessenger",
         "category": "utilities",
+        "description": "Neu Messages is a fast and private SMS app with a clean, modern interface inspired by iOS-style design.",
         "iconLogo": "https://play-lh.googleusercontent.com/Cikret4TC4qAaRGjZBFX9v9varoThRdFrzFvVwweoqv-suVUsXEr1k86lzWAYf56FUC-qxqXO-heO5kUo5Hw3A=w480-h960-rw"
+         "screenshots": [
+          "https://play-lh.googleusercontent.com/dWXkSHtZQhYdEqzRE1adudlAuAMy4cnq4OA_PSOMIsOQjiSq0crOtdEUM4cXlyhTSX6pbdWBGRwqh-4kvnr5pg=w1052-h592-rw",
+           "https://play-lh.googleusercontent.com/YkZ6HuCl5qZqhjhsLV9GFS6UM5aDUSqteq92yGAWOiFhcVxDAEk6hEfh8CbK4ggE0Krow0nwbjCJnRj9OhgYX4E=w1052-h592-rw",
+           "https://play-lh.googleusercontent.com/GRUWPF_ALcgAXTEKO_N2Fps_tYoCMsuFo4nhy7lj8UcI3kL-CmCO_vFEi9tfKfjbJmhqrL4o7sL_EfOTIBuBkwI=w1052-h592-rw",
+           "https://play-lh.googleusercontent.com/GRUWPF_ALcgAXTEKO_N2Fps_tYoCMsuFo4nhy7lj8UcI3kL-CmCO_vFEi9tfKfjbJmhqrL4o7sL_EfOTIBuBkwI=w1052-h592-rw"
+        ]
       },
       {
         "name": "Neu Contacts – Private",
         "packageName": "com.vidxlab.contacts",
         "category": "utilities",
+        "description": "Neu Contacts is a private, offline contacts app built for users who want full control over their contacts.",
         "iconLogo": "https://play-lh.googleusercontent.com/p3WXDrK5o8vRS6glkogxtvn54jTN0ge7PtUDH8pnWW18pI00KzpsNWPYBxb_4k5QXE_kasdcKqpG4E1VEasBMA=w480-h960-rw"
+         "screenshots": [
+          "https://play-lh.googleusercontent.com/biwLbiff9kAVwhX82ayqd-UfLOEyQMACNlCBJ8qFr213LhJMJP_0tTrE7q2mfNqTi8sd5CGcPaqEHf8NhXza8g=w1052-h592-rw".
+           "https://play-lh.googleusercontent.com/UtGVjHXVL3suSADbXk38EL5gDGDbRiYqRoIdFlA9Roj_PWKoiTRpNzOoOxKTb8xTajdJ5hL41YPmETjqrIIs=w1052-h592-rw",
+           "https://play-lh.googleusercontent.com/XArns0Afob4te7JeiK8GNoMqV8K6-BKvAaxAOvaSHLlo4o0pwYc9Ma5blFrRj5wkGwoneB5wskA2QlweTA7Z=w1052-h592-rw";
+           "https://play-lh.googleusercontent.com/2i22KMktnKcoVFjSiWV59PbvDeTXVD2P-YKA6cxDFrN68mHeAwzdfKYzEXNbeMwLSYYp8CLrDad7KvRwemerjA=w1052-h592-rw"
+        ]
       },
       {
         "name": "Neu Gallery – Photo Vault",
         "packageName": "com.vidxlab.neugallery",
         "category": "utilities",
+        "description": "Neu Gallery – Photo Vault is a fast, secure, and offline gallery app designed to protect your private photos and videos while giving you full control over your media.",
         "iconLogo": "https://play-lh.googleusercontent.com/x4ybS54pFPA_pPQ3tPSxBa5_dyj7LQPsYfj0R1bxAUDQVbfwU5b2AUQvjtLTpsO3Q5aOfaTNynZvna0GEgcycw=w480-h960-rw"
-      },
-      {
-        "name": "File Manager – Files & Storage",
-        "packageName": "om.vidxlab.filemanager",
-        "category": "tools",
-        "iconLogo": "https://play-lh.googleusercontent.com/EbOjaQPxzeuUBPXB4ZlMAODiRK6baIL_HG5ii4NH3m452ZuwYxJ8UBXSM-Z_zR2xXFIv3jjaO0ENsk1iKQsm_Vw=w480-h960-rw"
-      },
-      {
-        "name": "Focus Timer: Pomodoro",
-        "packageName": "com.vidxlab.pomodoro",
-        "category": "tools",
-        "iconLogo": "https://play-lh.googleusercontent.com/qNarcft2KqYcG2suATOgcORtDU_t3RWjXNJMIfdQB8aosK_8VAgpuuVpk9qtVBJMLVILnS8QFffL-RmE9wc1=w480-h960-rw"
+         "screenshots": [
+           "https://play-lh.googleusercontent.com/u4-Czq4QWHb76oyMMLYg4nPyJ_dFPZROa3j6LWXitEPqxLD7Xcz9HyD495UXoKhStPoaXMmrUxzrXKjmwdD0=w1052-h592-rw",
+           "https://play-lh.googleusercontent.com/u4-Czq4QWHb76oyMMLYg4nPyJ_dFPZROa3j6LWXitEPqxLD7Xcz9HyD495UXoKhStPoaXMmrUxzrXKjmwdD0=w1052-h592-rw",
+           "https://play-lh.googleusercontent.com/2sn6ZuIfeOV5FCHDJX7PilctQctwWWjxNcZASzVULnGTwtKQZXocjvMW24NhEaon2Vh5TlOm6o7R_RXixN0u5Q=w1052-h592-rw",
+           "https://play-lh.googleusercontent.com/5WF7d1bb1knePofowP9_hqHM_joOHdXtdlaNlOESwRsp2YNubbvFOgdst3JYIq1xmxu5fXu172eUcDEQu0bcqHw=w1052-h592-rw"
+        ]
       }
     ]
   }
