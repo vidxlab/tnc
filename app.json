@@ -1,6 +1,6 @@
 {
   "flags": {
-    "showPromotedApps": false,
+    "showPromotedApps": true,
     "disableSDK": false
   },
   "data": {
